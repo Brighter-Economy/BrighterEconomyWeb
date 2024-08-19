@@ -1,0 +1,18 @@
+﻿@page "/"
+@using System.Xml
+
+<PageTitle>This is a test</PageTitle>
+<h1>This is a counter</h1>
+<button @onclick="IncrementCount">Click Here</button>
+<p>You have clicked the button "@_currentCount" times</p>
+
+@code {
+
+    private int _currentCount;
+
+    private void IncrementCount()
+    {
+        _currentCount++;
+    }
+
+}

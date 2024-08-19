@@ -1,0 +1,48 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorApp-empty1
+build_property.RootNamespace = BlazorApp-empty1
+build_property.ProjectDir = C:\Users\Jacob Elliss\RiderProjects\BEWebPortal\BEWebPortal\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jacob Elliss\RiderProjects\BEWebPortal\BEWebPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/Pages/Compenents/PlayerDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGVuZW50c1xQbGF5ZXJEaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/Pages/PlayerBalances.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheWVyQmFsYW5jZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/Pages/Test.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jacob Elliss/RiderProjects/BEWebPortal/BEWebPortal/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

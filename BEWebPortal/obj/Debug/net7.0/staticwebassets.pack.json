@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\obj\\Debug\\net7.0\\build-gz\\nhlGNvkD.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\wwwroot\\Shared\\ShopBlock.svg",
+      "PackagePath": "staticwebassets\\Shared\\ShopBlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\wwwroot\\Shared\\ShopBlockIcon.png",
+      "PackagePath": "staticwebassets\\Shared\\ShopBlockIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\wwwroot\\Shared\\ShopBlockIcon_small.png",
+      "PackagePath": "staticwebassets\\Shared\\ShopBlockIcon_small.png"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\wwwroot\\Shared\\favicon.ico",
+      "PackagePath": "staticwebassets\\Shared\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jacob Elliss\\RiderProjects\\BEWebPortal\\BEWebPortal\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BEWebPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BEWebPortal.props",
+      "PackagePath": "build\\BEWebPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BEWebPortal.props",
+      "PackagePath": "buildMultiTargeting\\BEWebPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BEWebPortal.props",
+      "PackagePath": "buildTransitive\\BEWebPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
