@@ -9,4 +9,5 @@ public struct ItemMarketTable
     }
     public String itemID { get; set; }
     public String itemName { get; set; }
+    public double[] itemHist { get; set; }
 }
